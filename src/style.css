@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background: linear-gradient(to right, #add8e6, #e6e6fa);
+}
+
+
+h1{
+    color: rgb(169, 8, 201);
+    text-align: center;
+}
+
+.main{
+    height: 87vh;
+    display: flex;
+
+}
+
+.movieList{
+    width: 50vw;
+    
+}
+
+.movieList h3{
+    color: rgb(6, 112, 147);
+    border : 1px solid darkblue;
+    width: 100%;
+    margin: 6px;
+    text-align: center;
+    background-color: #add8e6;
+    cursor: pointer;
+}
+
+.movieDisplay{
+    width: 30vw;
+    font-size: large;
+    text-align: center;
+    margin-inline: 100px;
+    margin-block: 80px;
+}
+
+
+
+
